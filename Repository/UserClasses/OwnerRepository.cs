@@ -6,7 +6,7 @@ namespace Repository.UserClasses
 {
     public class OwnerRepository : RepositoryBase<Owner>, IOwnerRepository
     {
-        public OwnerRepository(RepositoryContext repositoryContext)
+        public OwnerRepository(RepositoryContext repositoryContext) 
             :base(repositoryContext)
         {
         }
