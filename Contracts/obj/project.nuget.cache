@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "zELYGq3IvpUx01AkPl7nEu4WMe0djGjRMGN+GfhgOqzZhbJeS3C5/Qne1FDYO47HRQIgg61anjv67fpGAtEOkA==",
+  "dgSpecHash": "8H82lyznQYwS2J+P35b9UMBngFASNd5h8bIsY6Zibj/K60rvPrc8jtJInSDngTQzEIxvCjnoCTJ1u07w5nc34g==",
   "success": true,
   "projectFilePath": "/Users/user/RiderProjects/RepositoryPattern/Contracts/Contracts.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/user/.nuget/packages/automapper/11.0.0/automapper.11.0.0.nupkg.sha512",
+    "/Users/user/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/11.0.0/automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "/Users/user/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/user/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/user/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/Users/user/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/user/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

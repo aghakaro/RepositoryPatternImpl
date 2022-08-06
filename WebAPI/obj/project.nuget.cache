@@ -1,14 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "QJ+z0RKonIRz8dkn7oh5gUPrpErqrWZDkRduf+m6402tE00pol3/QU0/Lyl6gWDkw7frJ9vZ8f/iLulx0tdnvw==",
+  "dgSpecHash": "qMkIZYcrkjLhG6Dt/Vj9P+dSgwgrjg+pxX4g5Uj7K6T5UKdB7ncSeYI4jBZNMQn0zSLeQia2ogdliRQoLoCxKQ==",
   "success": true,
   "projectFilePath": "/Users/user/RiderProjects/RepositoryPattern/WebAPI/WebAPI.csproj",
   "expectedPackageFiles": [
+    "/Users/user/.nuget/packages/automapper/11.0.0/automapper.11.0.0.nupkg.sha512",
+    "/Users/user/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/11.0.0/automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "/Users/user/.nuget/packages/azure.core/1.20.0/azure.core.1.20.0.nupkg.sha512",
     "/Users/user/.nuget/packages/azure.identity/1.5.0/azure.identity.1.5.0.nupkg.sha512",
     "/Users/user/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/user/.nuget/packages/microsoft.bcl.asyncinterfaces/1.0.0/microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/Users/user/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/user/.nuget/packages/microsoft.data.sqlclient/5.0.0-preview2.22096.2/microsoft.data.sqlclient.5.0.0-preview2.22096.2.nupkg.sha512",
     "/Users/user/.nuget/packages/microsoft.data.sqlclient.sni.runtime/5.0.0-preview2.22084.1/microsoft.data.sqlclient.sni.runtime.5.0.0-preview2.22084.1.nupkg.sha512",
     "/Users/user/.nuget/packages/microsoft.entityframeworkcore/7.0.0-preview.6.22329.4/microsoft.entityframeworkcore.7.0.0-preview.6.22329.4.nupkg.sha512",
