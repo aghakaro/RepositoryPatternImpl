@@ -1,0 +1,17 @@
+/Users/user/RiderProjects/RepositoryPattern/DataAccess/bin/Debug/net6.0/DataAccess.deps.json
+/Users/user/RiderProjects/RepositoryPattern/DataAccess/bin/Debug/net6.0/DataAccess.dll
+/Users/user/RiderProjects/RepositoryPattern/DataAccess/bin/Debug/net6.0/DataAccess.pdb
+/Users/user/RiderProjects/RepositoryPattern/DataAccess/bin/Debug/net6.0/Contracts.dll
+/Users/user/RiderProjects/RepositoryPattern/DataAccess/bin/Debug/net6.0/Entities.dll
+/Users/user/RiderProjects/RepositoryPattern/DataAccess/bin/Debug/net6.0/Contracts.pdb
+/Users/user/RiderProjects/RepositoryPattern/DataAccess/bin/Debug/net6.0/Entities.pdb
+/Users/user/RiderProjects/RepositoryPattern/DataAccess/obj/Debug/net6.0/DataAccess.csproj.AssemblyReference.cache
+/Users/user/RiderProjects/RepositoryPattern/DataAccess/obj/Debug/net6.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/RiderProjects/RepositoryPattern/DataAccess/obj/Debug/net6.0/DataAccess.AssemblyInfoInputs.cache
+/Users/user/RiderProjects/RepositoryPattern/DataAccess/obj/Debug/net6.0/DataAccess.AssemblyInfo.cs
+/Users/user/RiderProjects/RepositoryPattern/DataAccess/obj/Debug/net6.0/DataAccess.csproj.CoreCompileInputs.cache
+/Users/user/RiderProjects/RepositoryPattern/DataAccess/obj/Debug/net6.0/DataAccess.csproj.CopyComplete
+/Users/user/RiderProjects/RepositoryPattern/DataAccess/obj/Debug/net6.0/DataAccess.dll
+/Users/user/RiderProjects/RepositoryPattern/DataAccess/obj/Debug/net6.0/refint/DataAccess.dll
+/Users/user/RiderProjects/RepositoryPattern/DataAccess/obj/Debug/net6.0/DataAccess.pdb
+/Users/user/RiderProjects/RepositoryPattern/DataAccess/obj/Debug/net6.0/ref/DataAccess.dll

@@ -1,0 +1,15 @@
+/Users/user/RiderProjects/RepositoryPattern/Contracts/bin/Debug/net6.0/Contracts.deps.json
+/Users/user/RiderProjects/RepositoryPattern/Contracts/bin/Debug/net6.0/Contracts.dll
+/Users/user/RiderProjects/RepositoryPattern/Contracts/bin/Debug/net6.0/Contracts.pdb
+/Users/user/RiderProjects/RepositoryPattern/Contracts/bin/Debug/net6.0/Entities.dll
+/Users/user/RiderProjects/RepositoryPattern/Contracts/bin/Debug/net6.0/Entities.pdb
+/Users/user/RiderProjects/RepositoryPattern/Contracts/obj/Debug/net6.0/Contracts.csproj.AssemblyReference.cache
+/Users/user/RiderProjects/RepositoryPattern/Contracts/obj/Debug/net6.0/Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/RiderProjects/RepositoryPattern/Contracts/obj/Debug/net6.0/Contracts.AssemblyInfoInputs.cache
+/Users/user/RiderProjects/RepositoryPattern/Contracts/obj/Debug/net6.0/Contracts.AssemblyInfo.cs
+/Users/user/RiderProjects/RepositoryPattern/Contracts/obj/Debug/net6.0/Contracts.csproj.CoreCompileInputs.cache
+/Users/user/RiderProjects/RepositoryPattern/Contracts/obj/Debug/net6.0/Contracts.csproj.CopyComplete
+/Users/user/RiderProjects/RepositoryPattern/Contracts/obj/Debug/net6.0/Contracts.dll
+/Users/user/RiderProjects/RepositoryPattern/Contracts/obj/Debug/net6.0/refint/Contracts.dll
+/Users/user/RiderProjects/RepositoryPattern/Contracts/obj/Debug/net6.0/Contracts.pdb
+/Users/user/RiderProjects/RepositoryPattern/Contracts/obj/Debug/net6.0/ref/Contracts.dll
