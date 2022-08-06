@@ -18,6 +18,8 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.ConfigureRepositoryWrapper();
 
+//builder.Services.AddAutoMapper(typeof(Program));
+
 
 var app = builder.Build();
 
